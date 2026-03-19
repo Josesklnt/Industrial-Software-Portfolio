@@ -22,17 +22,17 @@ Este repositorio detalla las arquitecturas y soluciones técnicas que he diseña
 - **Resultado:** Sistema escalable que garantiza la privacidad, seguridad y disponibilidad de datos en fincas remotas.
 - **Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL, Soluciones Online.
 
-### 4. Desarrollo AI-Augmented
-Todos mis proyectos actuales integran herramientas de IA para garantizar:
-1. **Velocidad de entrega:** Ciclos de desarrollo reducidos.
-2. **Seguridad:** Código revisado y testeado bajo estándares modernos.
-3. **Optimización:** Lógica eficiente para entornos de misión crítica.
-
-### 5. Arquitectura Distribuida para el Sector Agroindustrial
+### 4. Arquitectura Distribuida para el Sector Agroindustrial
 **Reto:** Crear una plataforma de gestión ganadera para múltiples clientes con máxima seguridad.
 - **Solución:** Arquitectura de software distribuida con bases de datos individuales, sistema central y middleware de sincronización asíncrona.
 - **Resultado:** Sistema escalable que garantiza la disponibilidad de datos en fincas remotas y veracidad en sistema central.
 - **Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL, Soluciones Offline.
+
+### 5. Desarrollo AI-Augmented
+Todos mis proyectos actuales integran herramientas de IA para garantizar:
+1. **Velocidad de entrega:** Ciclos de desarrollo reducidos.
+2. **Seguridad:** Código revisado y testeado bajo estándares modernos.
+3. **Optimización:** Lógica eficiente para entornos de misión crítica.
 
 ---
 *¿Interesado en una solución similar? Hablemos en www.linkedin.com/in/automatizacion-joseaescalante*
