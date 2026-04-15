@@ -34,11 +34,5 @@ Este repositorio detalla las arquitecturas y soluciones técnicas que he diseña
 - **Resultado:** Implementación de mecánicas de juego que optimizan el engagement y la respuesta cognitiva, reduciendo los tiempos de desarrollo tradicional en un 60% mediante asistencia de IA.
 - **Tecnologías:** JavaScript, HTML5, CSS, AI-Augmented Logic, UX/UI Design.
 
-### 6. Desarrollo AI-Augmented
-Todos mis proyectos actuales integran herramientas de IA para garantizar:
-1. **Velocidad de entrega:** Ciclos de desarrollo reducidos.
-2. **Seguridad:** Código revisado y testeado bajo estándares modernos.
-3. **Optimización:** Lógica eficiente para entornos de misión crítica.
-
 ---
 *¿Interesado en una solución similar? Hablemos en www.linkedin.com/in/automatizacion-joseaescalante*
